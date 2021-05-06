@@ -1,3 +1,68 @@
+# Frontend Mentor - Huddle landing page with single introductory section solution
+
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the page depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Links
+
+- Solution URL: https://github.com/misspee007/practice-react-app
+- Live Site URL: https://misspee007.github.io/practice-react-app/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+This is my first ReactJS project. I learned quite a lot.
+
+### Continued development
+I intend to fully dive into unravelling React JS, and understanding JS better.
+
+### Useful resources
+
+- [Introduction to ReactJS](https://www.youtube.com/watch?v=ykBkIJjpAEU) - This is the first in a series of videos on the Zuri Team YouTube channel, which helped me understand the basics of React JS.
+
+## Author
+
+- LinkedIn - [Precious Abubakar](https://www.linkedin.com/in/precious-abubakar/)
+- Frontend Mentor - @misspee007 (https://www.frontendmentor.io/profile/@misspee007)
+
+
+## Acknowledgments
+
+Shoutout to the amazing Frontend Mentors of ZurixI4G-2021, and the entire Zuri team.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

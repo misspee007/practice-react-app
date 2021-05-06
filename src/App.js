@@ -1,5 +1,5 @@
-import logo from "./images/logo.png";
-import mockup from "./images/mockup.png"
+import logo from "./images/logo.svg";
+import mockup from "./images/illustration-mockups.svg"
 import './App.css';
 
 function App() {
@@ -14,17 +14,28 @@ function App() {
       <main>
 
         <img src={mockup} alt="mockup"/>
+        
         <div className="content">
-          <h2>Build the community your fans will love</h2>
-          <p>There are also designs for the mobile view and active status in the implementation of the design as well</p>
-          <button>Resgister</button>
+
+          <h2>Build The Community Your Fans Will Love</h2>
+
+          <p>Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+
+          <button>Register</button>
         </div>
       </main>
 
       <footer>
-        <i class="fab fa-facebook-f"></i>
-        <i class="fab fa-twitter"></i>
-        <i class="fab fa-instagram"></i>
+        <div className="social-links">
+          <a href="#" target="blank"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" target="blank"><i class="fab fa-twitter"></i></a>
+          <a href="#" target="blank"><i class="fab fa-instagram"></i></a>
+        </div>
+        
+        <p class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. &#8199; 
+        Coded by <a href="https://github.com/misspee007" target="_blank">Precious-Abubakar</a>.
+        </p>
       </footer>
     </>
   );
