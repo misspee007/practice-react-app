@@ -48,6 +48,7 @@ If they are not installed, you can follow the guide [here](#setting-up-for-windo
 3. Visit http://localhost:5500/
 
 ### How to Run Tests
+???
 
 ### Project Structure
 
@@ -57,6 +58,7 @@ For the BackEnd structure of this project, please refer to this [document](https
 ## Local Development
 
 ### Tests That Have Been Setup
+???
 
 ### Linting
 
@@ -101,6 +103,7 @@ This plugin uses Commitlint to ensure commits messages follow a particular conve
 10. Create a pull request to the `dev` branch.
 
 ### PR Guide
+???
 
 ### Setting Up for Windows/Linux/Mac
 - [How to install Git on Windows, Linux and macOS](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
